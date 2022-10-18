@@ -1,0 +1,11 @@
+{
+  "name": "@keeplifestories/prettier-config",
+  "version": "0.0.0",
+  "description": "Honeycomb Prettier Config",
+  "main": "index.json",
+  "author": "Philihp Busby <philihp@joinhoneycomb.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
