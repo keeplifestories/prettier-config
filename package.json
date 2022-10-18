@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Honeycomb Prettier Config",
   "main": "index.json",
+  "scripts": {
+    "test": "echo \"OK\""
+  },
   "author": "Philihp Busby <philihp@joinhoneycomb.com>",
   "license": "MIT",
   "publishConfig": {
